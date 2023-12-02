@@ -10,5 +10,10 @@ To accomplish this task, we will employ several techniques and tools:
 ![image](https://github.com/DrBoomaPM/RAG/assets/118997877/f47e5612-c9ed-4b90-8b88-3d1a3f4a2d09)
 ## Interface
 ![image](https://github.com/DrBoomaPM/RAG/assets/118997877/c6c49fc3-5849-481f-a0e6-4aa88f8506c9)
-![image](https://github.com/DrBoomaPM/RAG/assets/118997877/a6fe0fb9-4647-4f32-a38b-68144b2c2d2f)
+
+
+
+
+
+
 
